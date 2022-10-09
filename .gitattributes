@@ -2,3 +2,4 @@
 * text=auto
 *.resx linguist-detectable=false
 *.csproj linguist-detectable=false
+*.cs linguist-detectable=false
