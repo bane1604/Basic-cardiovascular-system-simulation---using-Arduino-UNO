@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.resx linguist-detectable=false
+*.csproj linguist-detectable=false
