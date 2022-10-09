@@ -1,0 +1,12 @@
+C:\Users\Bane\Desktop\projekat_arudino_brm_brm\projekat_arudino_brm_brm\bin\Debug\projekat_arudino_brm_brm.exe.config
+C:\Users\Bane\Desktop\projekat_arudino_brm_brm\projekat_arudino_brm_brm\bin\Debug\projekat_arudino_brm_brm.exe
+C:\Users\Bane\Desktop\projekat_arudino_brm_brm\projekat_arudino_brm_brm\bin\Debug\projekat_arudino_brm_brm.pdb
+C:\Users\Bane\Desktop\projekat_arudino_brm_brm\projekat_arudino_brm_brm\obj\Debug\projekat_arudino_brm_brm.csprojAssemblyReference.cache
+C:\Users\Bane\Desktop\projekat_arudino_brm_brm\projekat_arudino_brm_brm\obj\Debug\projekat_arudino_brm_brm.Form1.resources
+C:\Users\Bane\Desktop\projekat_arudino_brm_brm\projekat_arudino_brm_brm\obj\Debug\projekat_arudino_brm_brm.Properties.Resources.resources
+C:\Users\Bane\Desktop\projekat_arudino_brm_brm\projekat_arudino_brm_brm\obj\Debug\projekat_arudino_brm_brm.csproj.GenerateResource.cache
+C:\Users\Bane\Desktop\projekat_arudino_brm_brm\projekat_arudino_brm_brm\obj\Debug\projekat_arudino_brm_brm.csproj.CoreCompileInputs.cache
+C:\Users\Bane\Desktop\projekat_arudino_brm_brm\projekat_arudino_brm_brm\obj\Debug\projekat_arudino_brm_brm.exe
+C:\Users\Bane\Desktop\projekat_arudino_brm_brm\projekat_arudino_brm_brm\obj\Debug\projekat_arudino_brm_brm.pdb
+E:\projekat_medicina\projekat_arudino_brm_brm_2\projekat_arudino_brm_brm\obj\Debug\projekat_arudino_brm_brm.exe
+E:\projekat_medicina\projekat_arudino_brm_brm_2\projekat_arudino_brm_brm\obj\Debug\projekat_arudino_brm_brm.pdb
